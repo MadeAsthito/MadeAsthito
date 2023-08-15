@@ -18,9 +18,9 @@
 
 ---
 
-### Hi there 👋
+### :man_technologist: Hi there 👋
 
-:man_technologist: Nice to meet you! My name is **Made Asthito Yogi Prasanna**
+ Nice to meet you! My name is **Made Asthito Yogi Prasanna**
 - 🔭 I’m working as Software Engineering building, developing, and maintaining web application in backend an frontend!
 - 👯 I’m looking to collaborate on web based application project, if you wanted, you could contact me!
 - 🌱 I’m currently exploring node.js development and web app security!
