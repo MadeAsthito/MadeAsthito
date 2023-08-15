@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://t.me/thito000" target="blank">
+    <a href="https://t.me/thito000" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="mailto: madeasthito.yogi@gmail.com" target="blank">
+    <a href="mailto: madeasthito.yogi@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://www.instagram.com/asthitoyp/" target="blank">
+    <a href="https://www.instagram.com/asthitoyp/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
