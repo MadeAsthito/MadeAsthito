@@ -50,7 +50,7 @@
 
 [![Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MadeAsthito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeAsthito&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeAsthito&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
